@@ -1,7 +1,8 @@
 # Roblox-Doors-2026-The-Hollow-Esp
 An AI script that lets you see candy and salvage through walls and highlight them with tracers.
+
 Toggle with K.
-Copy and Paste all below in to your injector or roblox game!
+Copy and Paste all below in to your injector!
 ------------------------------------------------------------------------------------------------------------------------
 ```lua
 local Players = game:GetService("Players")
